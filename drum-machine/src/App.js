@@ -7,7 +7,11 @@ function App() {
       <header className="App-header">
         <h1>Drum Machine by VickersCode</h1>
       </header>
-      <div id='drum-machine'></div>
+      <div id='drum-machine'>
+        <div id='display'>
+        
+        </div>
+      </div>
     </div>
   );
 }
