@@ -9,16 +9,22 @@ function App() {
       </header>
       <div id='drum-machine'>
         <div id='display'>
-          <button>Q</button>
-          <button>W</button>
-          <button>E</button>
-          <button>A</button>
-          <button>S</button>
-          <button>D</button>
-          <button>Z</button>
-          <button>X</button>
-          <button>C</button>
+          <div id="drums">
+            <button>Q</button>
+            <button>W</button>
+            <button>E</button>
+            <button>A</button>
+            <button>S</button>
+            <button>D</button>
+            <button>Z</button>
+            <button>X</button>
+            <button>C</button>
+          </div>
+          <div id="control">
+
+          </div>  
         </div>
+        
       </div>
     </div>
   );
